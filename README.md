@@ -1,2 +1,1 @@
-# mlops
-josemati07/mlops
+# autompg-azure-mlops-main
